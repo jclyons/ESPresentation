@@ -1,0 +1,33 @@
+[
+   {
+      "id":141427,
+      "name":"LIB_SIE ENGY_V17475-ICND-0009_12_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-04-28 11:50:53"
+   }
+]

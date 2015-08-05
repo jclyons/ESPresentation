@@ -1,0 +1,312 @@
+[
+   {
+      "id":141427,
+      "name":"LIB_SIE ENGY_V17475-ICND-0009_12_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-04-28 11:50:53"
+   },
+   {
+      "id":141426,
+      "name":"LIB_SIE ENGY_V17475-ICND-0013_4_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-04-28 11:50:53"
+   },
+   {
+      "id":141425,
+      "name":"LIB_SIE ENGY_V17475-ICND-0002_9_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-04-28 11:50:53"
+   },
+   {
+      "id":141424,
+      "name":"LIB_SIE ENGY_V17475-ICND-0006_15_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-04-28 11:50:53"
+   },
+   {
+      "id":141423,
+      "name":"LIB_SIE ENGY_V17475-ICND-0005_13_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-04-28 11:50:53"
+   },
+   {
+      "id":141422,
+      "name":"LIB_SIE ENGY_V17475-ICND-0004_11_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-04-28 11:50:53"
+   },
+   {
+      "id":121823,
+      "name":"LIB_SIE ENGY_V17475-PIND-0324_0_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-02-02 20:09:02"
+   },
+   {
+      "id":121697,
+      "name":"LIB_SIE ENGY_V17475-PIND-0199_2_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-02-02 16:17:51"
+   },
+   {
+      "id":121601,
+      "name":"LIB_SIE ENGY_V17475-PIND-0032_3_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-01-30 18:34:24"
+   },
+   {
+      "id":121600,
+      "name":"LIB_SIE ENGY_V17475-PIND-0043_4_RA.pdf",
+      "status":{
+         "id":1,
+         "name":"RA"
+      },
+      "groups":[
+         {
+            "id":1,
+            "displayName":"Administrators"
+         },
+         {
+            "id":15205,
+            "displayName":"Gemma-HO-Executives (111)"
+         },
+         {
+            "id":15206,
+            "displayName":"Gemma-HO-Directors (112)"
+         },
+         {
+            "id":15207,
+            "displayName":"Gemma-HO-Proj Mgrs (113)"
+         },
+         {
+            "id":15208,
+            "displayName":"Gemma-HO-Engr I (121)"
+         }
+      ],
+      "created":"2015-01-30 18:34:24"
+   }
+]
